@@ -1,0 +1,26 @@
+{
+  "name": "bbtodo",
+  "version": "1.0.0",
+  "description": "Todo List built on backbone",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "runtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hirakchatterjee/bbtodo.git"
+  },
+  "keywords": [
+    "Todo"
+  ],
+  "author": "Hirak Chatterjee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hirakchatterjee/bbtodo/issues"
+  },
+  "homepage": "https://github.com/hirakchatterjee/bbtodo#readme"
+}
